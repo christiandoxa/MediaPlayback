@@ -9,6 +9,6 @@
 ### Identitas
 - Nama  : Christian Doxa Hamasiah
 - Kelas : XII RPL III
-- Nomor : 09
+- Nomor : 08
 - NIS   : 4691/1410.070
 - Sekolah  : SMK Telkom Malang
